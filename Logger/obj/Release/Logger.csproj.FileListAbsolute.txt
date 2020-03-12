@@ -1,0 +1,5 @@
+D:\!!!MOJE\!SLaw\SRC\Logger\Logger\bin\Release\Logger.dll
+D:\!!!MOJE\!SLaw\SRC\Logger\Logger\bin\Release\Logger.pdb
+D:\!!!MOJE\!SLaw\SRC\Logger\Logger\obj\Release\Logger.dll
+D:\!!!MOJE\!SLaw\SRC\Logger\Logger\obj\Release\Logger.pdb
+D:\!!!MOJE\!SLaw\SRC\Logger\Logger\obj\Release\Logger.csprojAssemblyReference.cache

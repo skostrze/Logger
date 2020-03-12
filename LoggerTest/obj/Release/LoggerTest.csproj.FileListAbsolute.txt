@@ -1,0 +1,9 @@
+D:\!!!MOJE\!SLaw\SRC\Logger\LoggerTest\bin\Release\LoggerTest.exe.config
+D:\!!!MOJE\!SLaw\SRC\Logger\LoggerTest\bin\Release\LoggerTest.exe
+D:\!!!MOJE\!SLaw\SRC\Logger\LoggerTest\bin\Release\LoggerTest.pdb
+D:\!!!MOJE\!SLaw\SRC\Logger\LoggerTest\bin\Release\Logger.dll
+D:\!!!MOJE\!SLaw\SRC\Logger\LoggerTest\bin\Release\Logger.pdb
+D:\!!!MOJE\!SLaw\SRC\Logger\LoggerTest\obj\Release\LoggerTest.exe
+D:\!!!MOJE\!SLaw\SRC\Logger\LoggerTest\obj\Release\LoggerTest.pdb
+D:\!!!MOJE\!SLaw\SRC\Logger\LoggerTest\obj\Release\LoggerTest.csprojAssemblyReference.cache
+D:\!!!MOJE\!SLaw\SRC\Logger\LoggerTest\obj\Release\LoggerTest.csproj.CopyComplete

@@ -1,0 +1,10 @@
+D:\!!!MOJE\!SLaw\Aligra\SRC\Logger\Logger\bin\Debug\Logger.dll
+D:\!!!MOJE\!SLaw\Aligra\SRC\Logger\Logger\bin\Debug\Logger.pdb
+D:\!!!MOJE\!SLaw\Aligra\SRC\Logger\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\!!!MOJE\!SLaw\Aligra\SRC\Logger\Logger\obj\Debug\Logger.dll
+D:\!!!MOJE\!SLaw\Aligra\SRC\Logger\Logger\obj\Debug\Logger.pdb
+D:\!!!MOJE\!SLaw\SRC\Logger\Logger\bin\Debug\Logger.dll
+D:\!!!MOJE\!SLaw\SRC\Logger\Logger\bin\Debug\Logger.pdb
+D:\!!!MOJE\!SLaw\SRC\Logger\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\!!!MOJE\!SLaw\SRC\Logger\Logger\obj\Debug\Logger.dll
+D:\!!!MOJE\!SLaw\SRC\Logger\Logger\obj\Debug\Logger.pdb

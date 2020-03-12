@@ -1,0 +1,8 @@
+D:\!!!MOJE\!SLaw\SRC\Logger\LoggerTest\obj\Debug\LoggerTest.csprojResolveAssemblyReference.cache
+D:\!!!MOJE\!SLaw\SRC\Logger\LoggerTest\bin\Debug\LoggerTest.exe.config
+D:\!!!MOJE\!SLaw\SRC\Logger\LoggerTest\bin\Debug\LoggerTest.exe
+D:\!!!MOJE\!SLaw\SRC\Logger\LoggerTest\bin\Debug\LoggerTest.pdb
+D:\!!!MOJE\!SLaw\SRC\Logger\LoggerTest\bin\Debug\Logger.dll
+D:\!!!MOJE\!SLaw\SRC\Logger\LoggerTest\bin\Debug\Logger.pdb
+D:\!!!MOJE\!SLaw\SRC\Logger\LoggerTest\obj\Debug\LoggerTest.exe
+D:\!!!MOJE\!SLaw\SRC\Logger\LoggerTest\obj\Debug\LoggerTest.pdb
